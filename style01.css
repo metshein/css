@@ -1,4 +1,4 @@
-/* Global */
+/******************************* Global *******************************/
 *{
     margin: 0;
     padding: 0;
@@ -15,7 +15,7 @@ body{
     margin:auto;
 }
 
-/* header */
+/****************************** header ****************************************/
 .header{
     background-color: #565656;
     color: #fff;
@@ -52,7 +52,7 @@ body{
 
 
 
-/* content */
+/******************************* content *******************************/
 .content{
     padding: 40px;
 }
@@ -68,13 +68,12 @@ body{
     font-weight: 400;
     margin: 10px 0;
 }
+
 p{
     margin: 10px 0;
 }
 
-
-
-/* footer */
+/******************************* footer *******************************/
 .footer{
     padding: 20px 40px;
     background-color: #000;
